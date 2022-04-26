@@ -6,8 +6,8 @@
   "attributes": {
     "hair_color": "collaboration(LAG)",
     "bangs": "collaboration(LAG)",
-    "earrings": null,
+    "earrings": "",
     "clothes": "collaboration(LAG)",
-    "hair_accessory": null
+    "hair_accessory": ""
   }
 }

@@ -6,8 +6,8 @@
   "attributes": {
     "hair_color": "black",
     "bangs": "hime",
-    "earrings": null,
+    "earrings": "",
     "clothes": "collaboration(LAG)",
-    "hair_accessory": null
+    "hair_accessory": ""
   }
 }
