@@ -1,0 +1,13 @@
+{
+  "tokenId": 11,
+  "name": "Kyomugao #11",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/011.png",
+  "attributes": {
+    "hair_color": "blonde",
+    "bangs": "hime",
+    "earrings": "heart",
+    "clothes": "sirota-toru",
+    "hair_accessory": "aoribon"
+  }
+}

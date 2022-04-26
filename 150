@@ -1,0 +1,13 @@
+{
+  "tokenId": 150,
+  "name": "Kyomugao #150",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/150.png",
+  "attributes": {
+    "hair_color": "pink",
+    "bangs": "hime",
+    "earrings": "wag",
+    "clothes": "rori-ta",
+    "hair_accessory": "pinkribbon"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tokenId": 16,
+  "name": "Kyomugao #16",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/016.png",
+  "attributes": {
+    "hair_color": "light blue",
+    "bangs": "hime",
+    "earrings": "panda",
+    "clothes": "kuromokomoko",
+    "hair_accessory": "orange"
+  }
+}

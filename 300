@@ -1,0 +1,13 @@
+{
+  "tokenId": 300,
+  "name": "Kyomugao #300",
+  "description": "Collaboration with ConusiVerse (BITCONUSI #001)",
+  "image_url": "ipfs://QmTAVC1R8f3ynz7iTehhqizPYTkTuuoR2axviwUSQENiiF/300.png",
+  "attributes": {
+    "hair_color": "collaboration(ConusiVerse)",
+    "bangs": "collaboration(ConusiVerse)",
+    "earrings": null,
+    "clothes": "collaboration(ConusiVerse)",
+    "hair_accessory": "collaboration(ConusiVerse)"
+  }
+}

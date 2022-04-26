@@ -1,0 +1,13 @@
+{
+  "tokenId": 17,
+  "name": "Kyomugao #17",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/017.png",
+  "attributes": {
+    "hair_color": "gray",
+    "bangs": "hime",
+    "earrings": "angel",
+    "clothes": "sirota-toru",
+    "hair_accessory": "hiyoko"
+  }
+}

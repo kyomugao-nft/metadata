@@ -1,0 +1,13 @@
+{
+  "tokenId": 50,
+  "name": "Kyomugao #50",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/050.png",
+  "attributes": {
+    "hair_color": "purple",
+    "bangs": "sotohane",
+    "earrings": "lip",
+    "clothes": "kurose-ra-",
+    "hair_accessory": "ume"
+  }
+}

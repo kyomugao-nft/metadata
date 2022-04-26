@@ -1,0 +1,13 @@
+{
+  "tokenId": 30,
+  "name": "Kyomugao #30",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/030.png",
+  "attributes": {
+    "hair_color": "light blue",
+    "bangs": "hime",
+    "earrings": "eth",
+    "clothes": "be-zyuribon",
+    "hair_accessory": "kyomu"
+  }
+}

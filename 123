@@ -1,0 +1,13 @@
+{
+  "tokenId": 123,
+  "name": "Kyomugao #123",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/123.png",
+  "attributes": {
+    "hair_color": "blue",
+    "bangs": "hime",
+    "earrings": "xrp",
+    "clothes": "pinnkuka-dhigann",
+    "hair_accessory": "cherry"
+  }
+}

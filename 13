@@ -1,0 +1,13 @@
+{
+  "tokenId": 13,
+  "name": "Kyomugao #13",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/013.png",
+  "attributes": {
+    "hair_color": "white",
+    "bangs": "sotohane",
+    "earrings": "panda",
+    "clothes": "kuroka-dhigann",
+    "hair_accessory": "panda"
+  }
+}

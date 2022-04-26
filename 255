@@ -1,0 +1,13 @@
+{
+  "tokenId": 255,
+  "name": "Kyomugao #255",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/255.png",
+  "attributes": {
+    "hair_color": "red",
+    "bangs": "emuzi",
+    "earrings": "lip",
+    "clothes": "kyomusirot",
+    "hair_accessory": null
+  }
+}

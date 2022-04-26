@@ -1,0 +1,13 @@
+{
+  "tokenId": 111,
+  "name": "Kyomugao #111",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/111.png",
+  "attributes": {
+    "hair_color": "blonde",
+    "bangs": "sennta-",
+    "earrings": "sol",
+    "clothes": "siroburausu",
+    "hair_accessory": "sakura"
+  }
+}

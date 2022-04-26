@@ -1,0 +1,13 @@
+{
+  "tokenId": 21,
+  "name": "Kyomugao #21",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/021.png",
+  "attributes": {
+    "hair_color": "purple",
+    "bangs": "pattunn",
+    "earrings": "angel",
+    "clothes": "siroburausu",
+    "hair_accessory": "orange"
+  }
+}

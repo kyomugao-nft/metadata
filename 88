@@ -1,0 +1,13 @@
+{
+  "tokenId": 88,
+  "name": "Kyomugao #88",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/088.png",
+  "attributes": {
+    "hair_color": "red",
+    "bangs": "sotohane",
+    "earrings": "panda",
+    "clothes": "chaina",
+    "hair_accessory": "panda"
+  }
+}

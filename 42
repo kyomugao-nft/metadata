@@ -1,0 +1,13 @@
+{
+  "tokenId": 42,
+  "name": "Kyomugao #42",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/042.png",
+  "attributes": {
+    "hair_color": "gray",
+    "bangs": "sennta-",
+    "earrings": "btc",
+    "clothes": "kuromokomoko",
+    "hair_accessory": "hiyoko"
+  }
+}

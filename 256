@@ -1,0 +1,13 @@
+{
+  "tokenId": 256,
+  "name": "Kyomugao #256",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/256.png",
+  "attributes": {
+    "hair_color": "black",
+    "bangs": "sennta-",
+    "earrings": "eth",
+    "clothes": "kyomukurot",
+    "hair_accessory": "cat"
+  }
+}

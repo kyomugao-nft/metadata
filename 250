@@ -1,0 +1,13 @@
+{
+  "tokenId": 250,
+  "name": "Kyomugao #250",
+  "description": "Kyomugao (1st season)",
+  "image_url": "ipfs://QmUw5CNjfoSXKAm8LwibMrWWTnNvQEjq7UxjQEP9411YCo/250.png",
+  "attributes": {
+    "hair_color": "pink",
+    "bangs": "hime",
+    "earrings": "heart",
+    "clothes": "gosikku",
+    "hair_accessory": "maids"
+  }
+}
