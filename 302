@@ -1,13 +1,13 @@
 {
   "tokenId": 302,
   "name": "Kyomugao #302",
-  "description": "",
+  "description": "Collaboration with FPgirl(#Familiar Pure Girl #0565)",
   "image_url": "ipfs://QmS6aW51X8U5yPifSjjVZCuE371irazHtfgfqkVakkKGNw/302.png",
   "attributes": {
-    "hair_color": "",
-    "bangs": "",
+    "hair_color": "blond",
+    "bangs": "collaboration(FPgirl)",
     "earrings": "",
-    "clothes": "",
+    "clothes": "collaboration(FPgirl)",
     "hair_accessory": ""
   }
 }
